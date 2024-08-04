@@ -23,5 +23,5 @@ Given IMDb data on various movies, including information about directors, actors
 3. Run the main script to preprocess the data and generate the dashboard
 4. Open the dashboard and explore the insights
 
-##Dashboard Link
+Dashboard Link
  https://app.powerbi.com/links/Mk8540_LUs?ctid=d4963ce2-af94-4122-95a9-644e8b01624d&pbi_source=linkShare
